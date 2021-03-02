@@ -5,4 +5,4 @@ Hey guys! I am Dhruv Kumar and I am a part of NITKRacing. This is a repository c
 Please feel free to reach me on Instagram, LinkedIn or Gmail if you have any doubts regarding the design and also if you are interested I will upload the test results for the components
 
 ## Drag budget calculator
-It is Power Budgeting tool, created on python to calculate the amount of power(in kW) which is available for adding on your aerodynamics components. Choose your components appropriatley so that you do not exceed the power.
+It is Power Budgeting tool, created on python to calculate the amount of power(in kW) which is available for adding on your aerodynamics components. Choose your components appropriatley, so that you do not exceed the power.
